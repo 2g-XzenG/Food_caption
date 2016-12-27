@@ -11,4 +11,5 @@ Since the goal is to predict the label of the image, and eventually hope one can
 
 # Result
 ![alt tag](https://github.com/1230pitchanqw/Food_caption/blob/master/Result/ice_cream293.jpg)
-The white part is the attention area that the machine focus on to make the caption/label prediction
+
+Note: The white part is the attention area that the machine focus on to make the caption/label prediction
