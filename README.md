@@ -8,3 +8,8 @@ Since the goal is to predict the label of the image, and eventually hope one can
 
 1. Extract Image feature by CNN (VGG-19)
 2. Use attention base LSTM model to generate the caption of the image, which in this case, is the label of the image
+
+# Result
+![alt tag](https://github.com/1230pitchanqw/Food_caption/result/ice_cream293.jpg)
+
+The white part is the attention area that the machine focus on to make the caption/label prediction
